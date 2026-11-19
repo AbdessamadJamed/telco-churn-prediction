@@ -3,7 +3,7 @@
 Modèle qui prédit quels clients d'un opérateur télécom vont résilier leur abonnement, pour aider à les retenir.
 
 ## Démo en ligne
-[Ouvrir l'application Streamlit](LIEN_A_AJOUTER_APRES_DEPLOIEMENT)
+[Ouvrir l'application Streamlit](https://telco-churn-prediction-kjwl6v82wwyhvyhxpmqftf.streamlit.app/)
 
 ![Capture de l'application](images/app_screenshot.png)
 
