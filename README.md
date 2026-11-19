@@ -2,6 +2,11 @@
 
 Modèle qui prédit quels clients d'un opérateur télécom vont résilier leur abonnement, pour aider à les retenir.
 
+## Démo en ligne
+[Ouvrir l'application Streamlit](LIEN_A_AJOUTER_APRES_DEPLOIEMENT)
+
+![Capture de l'application](images/app_screenshot.png)
+
 ## Données
 *Telco Customer Churn* (IBM, via Kaggle) : 7 043 clients, 21 colonnes, environ 26,5 % de churn. (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
